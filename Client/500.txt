@@ -1,0 +1,3 @@
+Packet loss = 13.6 percent
+sent = 500 count = 422
+Avg. delta time (RTT) = 0.608 m/s
